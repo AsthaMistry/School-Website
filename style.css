@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-color:antiquewhite;
+    font-family:monospace;
+}
+#mynavbar{
+    list-style:none;
+    float:right;
+    font-size: 20px;
+    margin-bottom: 2%;
+        
+}
+li{
+    display: inline;
+}
+#GDS{
+    font-size: 40px;
+    
+}
+#marqueStyle{
+    background-color:aquamarine;
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+#contactUs{
+    font-size: 47px;
+    margin-top: 80px;
+}
+#video{
+    width: 50%;
+    height: 50%;
+}
+#details{
+    margin-top: 5%;
+}
+#principal{
+    font-size: 30px;
+    font-weight:bolder;
+}
+#name{
+    font-size: 26px;
+    margin-top: -30px;
+    margin-right: 5%;
+}
+#e-mail{
+    font-size: 16px;
+}
+#insta{
+    font-size: 16px;
+    margin-left: 11%;
+}
+#phone{
+    font-size: 16px;
+    margin-right: 13%;
+}
